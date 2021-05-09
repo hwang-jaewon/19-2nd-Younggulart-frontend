@@ -3,11 +3,11 @@
 미술품 경매 사이트 'Singulart' 웹사이트 클론  
 http://3.35.82.99/
 
-## 🖥 프로젝트 소개
+## 🖥 프로젝트 내용
 - React를 Hook을 사용한 Singulart Website clone
+- Scrum방식을 이용한 프로젝트  
 - CRA를 사용한 초기 세팅
 - 3명의 팀원들이 공동 component, Styled Components 사용
-- git을 사용한 첫 번째 협업
 - Global Styles, theme, config 파일을 활용한 스타일 및 API 통일
 - Navigation, Footer, aside등 공통 컴포넌트 구현
 - fetch를 사용하여 백엔드 api 접근
